@@ -13,10 +13,12 @@ int namberB = Convert.ToInt32(Console.ReadLine());
 if(namberA > namberB)
 {
     int max = namberA;
-    Console.Write($"max = {max}");
+    int min = namberB;
+    Console.Write($"max = {max} , min = {min}");
 }
 else 
 {
     int max = namberB;
-    Console.Write($"max = {max}");
+    int min = namberA;
+    Console.Write($"max = {max} , min = {min}");
 }
