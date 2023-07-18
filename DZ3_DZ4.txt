@@ -1,0 +1,8 @@
+https://github.com/karyoza/C_sharp/tree/main/Seminar_4_DZ   
+
+Похоже не правильно отправил дз с 3-го семинара , продублирую тут:
+
+https://github.com/karyoza/C_sharp/tree/main/Seminar_3_DZ
+
+
+В задаче 29 не смог реализовать запрет любых символов кроме цыфр при вводе из консоли (
