@@ -10,7 +10,7 @@ void PrintFib(int n)
     int sosed2 = 1;
     int res = 0;
 
-    for(int i = 0; i < n - 2; i ++ ) 
+    for (int i = 0; i < n - 2; i++)
     {
         res = sosed1 + sosed2;
         System.Console.Write($" {res} ");
